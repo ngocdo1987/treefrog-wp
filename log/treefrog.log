@@ -1,0 +1,23 @@
+2017-03-16 03:37:39 INFO  [2430] TreeFrog Framework version 1.15.0
+2017-03-16 03:37:39 INFO  [2430] Qt 5.5.1 / Linux 4.4.0-66-generic
+2017-03-16 03:37:39 INFO  [2430] TreeFrog application servers started up.
+2017-03-16 03:38:37 WARN  [2476] Reading a socket timed out after 10 seconds. Descriptor:16
+2017-03-16 03:38:37 WARN  [2475] Reading a socket timed out after 10 seconds. Descriptor:14
+2017-03-16 03:38:57 WARN  [2488] Reading a socket timed out after 10 seconds. Descriptor:12
+2017-03-16 03:38:57 WARN  [2489] Reading a socket timed out after 10 seconds. Descriptor:14
+2017-03-16 03:39:59 INFO  [2430] TreeFrog application servers shutting down
+2017-03-16 03:39:59 INFO  [2430] TreeFrog application servers shutdown completed
+2017-03-16 03:40:30 INFO  [2558] TreeFrog Framework version 1.15.0
+2017-03-16 03:40:30 INFO  [2558] Qt 5.5.1 / Linux 4.4.0-66-generic
+2017-03-16 03:40:30 INFO  [2558] TreeFrog application servers started up.
+2017-03-16 07:18:22 INFO  [2558] TreeFrog application servers shutting down
+2017-03-16 07:18:23 INFO  [2558] TreeFrog application servers shutdown completed
+2017-03-19 02:12:44 INFO  [25532] TreeFrog Framework version 1.15.0
+2017-03-19 02:12:44 INFO  [25532] Qt 5.5.1 / Linux 4.4.0-66-generic
+2017-03-19 02:12:44 INFO  [25532] TreeFrog application servers started up.
+2017-03-19 02:13:15 WARN  [25543] Reading a socket timed out after 10 seconds. Descriptor:10
+2017-03-19 02:13:29 WARN  [25552] Reading a socket timed out after 10 seconds. Descriptor:10
+2017-03-19 02:13:42 WARN  [25571] Reading a socket timed out after 10 seconds. Descriptor:12
+2017-03-19 02:13:45 WARN  [25574] Reading a socket timed out after 10 seconds. Descriptor:14
+2017-03-19 02:13:59 INFO  [25532] TreeFrog application servers shutting down
+2017-03-19 02:13:59 INFO  [25532] TreeFrog application servers shutdown completed
